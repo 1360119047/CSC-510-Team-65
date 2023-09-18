@@ -5,4 +5,4 @@ https://docs.google.com/spreadsheets/d/1k7aDRaijF7GUKoOd_JpLm3XYWhbxuLzf1R5azFPv
 # Part 2
 https://www.youtube.com/watch?v=x8Aj-NTYrD4&ab_channel=XiaochunL
 # Part 3
-
+https://docs.google.com/document/d/12N-eBPFHQsOPJJgfkl7MiWeZiXboi19icvNDU6gYk-4/edit
