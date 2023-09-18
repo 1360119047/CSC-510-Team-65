@@ -12,3 +12,5 @@ We selected the [Burnout](https://github.com/deekay2310/calorieApp_server) appli
 We wrote a 750 word reflection on what was hard about this process, how that pain could have been avoided, and some of the practices we are committing to perform in project2 to avoid that pain.  
 [750 word essay](https://docs.google.com/document/d/12N-eBPFHQsOPJJgfkl7MiWeZiXboi19icvNDU6gYk-4/edit)
 
+[Part 3 in Markdown](./part3.md)
+
