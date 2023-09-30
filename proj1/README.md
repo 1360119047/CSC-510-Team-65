@@ -7,7 +7,7 @@ Each Google sheet tab (on the bottom bar) corresponds to a different repo that w
 In Markdown
 <br />[feature-hunt](./part11.md)
 <br />[Constable](./part12.md)
-<br />[GITS](./part13)
+<br />[GITS](./part13.md)
 <br />[Classbot](./part14.md)
 <br />[BurnOut](./part15.md)
 
