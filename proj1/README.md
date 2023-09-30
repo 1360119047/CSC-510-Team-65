@@ -3,7 +3,13 @@
 # Part 1
 Each Google sheet tab (on the bottom bar) corresponds to a different repo that we scored. The [software sustainability evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform) responses are on row 7 to 76. Then the main [project 2 rubric](https://github.com/txt/se23/blob/main/docs/project2.md#grading-rubric) scores are below from rows 79 to 107, with an accompanying link as evidence if needed.  
 [Repo scores | Google Sheets](https://docs.google.com/spreadsheets/d/1k7aDRaijF7GUKoOd_JpLm3XYWhbxuLzf1R5azFPvWFc/edit?usp=sharing)
-[Part 1 in Markdown](./part1.md)
+
+In Markdown
+<br />[feature-hunt](./part11.md)
+<br />[Constable](./part12.md)
+<br />[GITS](./part13.md)
+<br />[Classbot](./part14.md)
+<br />[BurnOut](./part15.md)
 
 # Part 2
 We selected the [Burnout](https://github.com/deekay2310/calorieApp_server) application to setup and record a 2 minute YouTube video.  
